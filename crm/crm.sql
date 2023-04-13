@@ -3,3 +3,8 @@
 -- e.g. DROP TABLE IF EXISTS ______;
 
 -- CREATE TABLES
+
+CREATE TABLE contacts (
+    id INTERGER PRIMARY KEY AUTOINCREMENT,
+    
+)
